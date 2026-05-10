@@ -1,8 +1,11 @@
 # MySQL Data Analytics Practice
 
-This repository contains my MySQL learning and hands-on SQL practice covering:
+This repository contains my MySQL learning and hands-on SQL practice.
 
-- SQL Fundamentals
+Currently uploaded:
+- Beginner SQL database creation practice
+
+More SQL practice files and projects will be added progressively, including:
 - Joins
 - Subqueries
 - Window Functions
@@ -11,7 +14,7 @@ This repository contains my MySQL learning and hands-on SQL practice covering:
 - Stored Procedures
 - Triggers
 - Events
-- Data Cleaning Mini Project
+- Data Cleaning Projects
 
 ---
 
@@ -21,52 +24,7 @@ This repository contains my MySQL learning and hands-on SQL practice covering:
 
 ---
 
-## Repository Structure
-
-### Beginner_SQL
-Contains beginner SQL database creation and SELECT statement practice.
-
-### SQL_Practice
-Contains intermediate and advanced SQL practice queries.
-
-### Mini_Project
-Contains SQL data cleaning mini project.
-
----
-
-## Topics Covered
-
-### Beginner SQL
-- SELECT Statements
-- WHERE Clause
-- GROUP BY
-- HAVING
-- ORDER BY
-- Aggregate Functions
-
-### Intermediate SQL
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- CASE Statements
-- Subqueries
-- Correlated Subqueries
-
-### Advanced SQL
-- Window Functions
-- ROW_NUMBER
-- RANK / DENSE_RANK
-- LEAD / LAG
-- CTEs
-- Temporary Tables
-- Stored Procedures
-- Triggers
-- Events
-
----
-
 ## Current Focus
-- SQL case studies
-- Data analytics projects
-- Power BI
-- Real-world reporting queries
+- SQL practice
+- Data analytics
+- Real-world query building
